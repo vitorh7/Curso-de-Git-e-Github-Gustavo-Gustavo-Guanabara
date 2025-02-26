@@ -1,2 +1,3 @@
 # curso em video
- criar repositório no git
+ clonar repositório
+ fazer commit, fork e issues
