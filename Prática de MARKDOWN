@@ -1,0 +1,48 @@
+# Estou aprendendo linguagem **MARKDOWN**
+## curso git-github do curso em vídeo.
+---
+*itálico*
+**negrito**
+_*misturado*_
+---
+**lista numerada:**
+1. banana
+   1. amarela
+   2. comprida
+3. cacau
+   1. chocolate
+   2. marrom
+
+**lista demarcada:**
+* Teste
+   * Teste
+* Teste
+
+**Lista de tarefas:**
+- [ ] fazer tarefa do curso de dados
+- [ ] comprar cadeado
+- [ ] ir à praia
+
+[acesse meu linkedin](www.linkedin.com/in/antonvitor)
+[acesse meu github]@vitorh7
+
+Num | Nome | Nota
+--- | --- | ---
+1 | Gustavo | 8,5
+2 | Vitor | 9
+3 | Julia | 10
+
+Não entendo direito o método `L.extend()` no python
+
+```python
+print("hello world)
+```
+Olá galera :partying_face:
+
+[repositório de emojis](https://github.com/ikatyang/emoji-cheat-sheet)
+
+[repositório de emojis para título](emojipedia.org)
+
+
+
+![Image](https://github.com/user-attachments/assets/31dae5d0-7deb-4706-bc51-177fb1526255)
